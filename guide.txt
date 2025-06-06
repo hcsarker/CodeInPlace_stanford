@@ -1,2 +1,4 @@
 
+REading Book:
+
 book 1: https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html
