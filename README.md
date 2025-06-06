@@ -29,7 +29,7 @@ You can reach me at: hcsarker2002@gmail.com
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the **MIT License**.
 
 ---
 
